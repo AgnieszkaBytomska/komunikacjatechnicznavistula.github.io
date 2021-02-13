@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Introduction
 nav_order: 1
 description: "Driver's Handbook for the Morris Mini Minor"
@@ -32,4 +31,4 @@ All information, specifications and illustrations in this manual are correct at 
 **ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
 
 Detailed and technical information is contained in the Workshop Manual which is available from your authorised
-Mini dealer.
+Mini dealer.layout: default
